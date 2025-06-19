@@ -1,4 +1,4 @@
-# Modern Homepage Project
+# FRONTEND BATTLE Homepage Project
 
 A modern, responsive homepage built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -39,3 +39,7 @@ npm start
 - TypeScript
 - Tailwind CSS
 - Lucide React Icons
+
+## Deployed On Vercel
+
+Open https://front-end-battle-mst.vercel.app/
