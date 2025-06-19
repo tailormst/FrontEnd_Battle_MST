@@ -1,45 +1,44 @@
-# FRONTEND BATTLE Homepage Project
+# 🌐 Frontend Battle – Homepage Project
 
-A modern, responsive homepage built with Next.js, TypeScript, and Tailwind CSS.
+A sleek, high-performance landing page built for the Frontend Battle challenge using Next.js, TypeScript, and Tailwind CSS. Designed with smooth animations, responsive layouts, and dark mode support to deliver a modern user experience.
 
-## Features
+## ✨ Features
+1. 🌙 Dark/Light mode toggle
 
-- 🌙 Dark/Light mode toggle
-- 📱 Fully responsive design
-- ⚡ Interactive animations
-- 🎯 Ripple effects
-- 📊 Animated statistics
-- 🎠 Testimonial carousel
-- 🎨 Modern UI components
+2. 📱 Fully responsive layout
 
-## Getting Started
+3. ⚡ Smooth animations and transitions
 
-1. Install dependencies:
-   \`\`\`bash
-   npm install
-   \`\`\`
+4. 🌊 Ripple effects for interaction
 
-2. Run the development server:
-   \`\`\`bash
-   npm run dev
-   \`\`\`
+5. 📊 Animated statistics section
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+6. 🎠 Auto-rotating testimonial carousel
 
-## Build for Production
+7. 🎨 Clean and modern UI components
 
-\`\`\`bash
+## 🚀 Getting Started
+### 1. Install dependencies
+```
+npm install
+npm run dev
+```
+Open http://localhost:3000 in your browser.
+## 🛠 Build for Production
+```
 npm run build
 npm start
-\`\`\`
+```
+## 🧰 Tech Stack
+1. Next.js 14
 
-## Technologies Used
+2. TypeScript
 
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- Lucide React Icons
+3. Tailwind CSS v4
 
-## Deployed On Vercel
+4. Lucide React Icons
 
-Open https://front-end-battle-mst.vercel.app/
+## 🌍 Live Preview
+Deployed on Vercel
+🔗 https://front-end-battle-mst.vercel.app/
+
